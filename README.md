@@ -1,1 +1,1 @@
-[![prerelease-alpha](https://github.com/mistermaxis/godot-template-test/actions/workflows/prerelease.yml/badge.svg?branch=alpha)](https://github.com/mistermaxis/godot-template-test/actions/workflows/prerelease.yml)
+[!prerelease-alpha](https://github.com/mistermaxis/godot-template-test/actions/workflows/prerelease.yml/badge.svg?branch=alpha)](https://github.com/mistermaxis/godot-template-test/actions/workflows/prerelease.yml)
